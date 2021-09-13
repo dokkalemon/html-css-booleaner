@@ -1,2 +1,22 @@
 /* STILIZZAZIONE GENERALE */
 * {font-family: 'Roboto', sans-serif;}
+
+body {width: 70%; margin: 0 auto}
+
+
+/* STILIZZAZIONE HEADER */
+header {
+    height: 100px; 
+    width: 100%; 
+    margin: 0 auto;
+    background-color: #4ea0ff;
+    background-image: url('../img/pattern.png');
+    background-size: 380px;
+}
+
+#logo {
+    height: 50px; 
+    padding-top: 50px; 
+    padding-left: 10px;
+}
+
