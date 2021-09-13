@@ -35,3 +35,7 @@ header {
 /* STILIZZAZIONE PARAGRAPH */
 #paragraph {margin-top: 35px}
 #paragraph p {font-size: 14px}
+
+/* STILIZZAZIONE LISTA */
+#list {margin-top: 35px}
+#list li {font-size: 14px}
