@@ -24,7 +24,10 @@ header {
     padding-left: 1px;
 }
 
-/* STILIZZAZIONE MAIN */
+/* STILIZZAZIONE TIM IMG */
 
+.img_conteiner {margin-top: 15px}
+.img_conteiner img {height: 330px}
+.img_conteiner p {font-size: 10px}
 
 
