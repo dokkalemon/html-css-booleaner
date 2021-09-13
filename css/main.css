@@ -54,3 +54,9 @@ thead {
 }
 
 .color {background-color: #b1e5f2}
+
+/* STILIZZAZIONE SECONDO PARAGRAFO */
+#secondParagraph {
+    margin-top: 35px;
+    font-size: 14px
+}
