@@ -60,3 +60,25 @@ thead {
     margin-top: 35px;
     font-size: 14px
 }
+
+/* STILIZZAZIONE FOOTER */
+
+footer {
+    margin-top : 35px; 
+    color: grey}
+
+#first_img {
+    height: 200px; 
+    width: 200px; 
+    background-image: url('../img/monitor.jpg');
+    color: white;
+    margin: 5px 0 0 0 
+}
+
+#second_img {
+    height: 200px; 
+    width: 200px; 
+    background-image: url('../img/graph.jpg');
+    color: white;
+    margin: 5px 0 0 0 
+}
